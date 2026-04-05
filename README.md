@@ -134,11 +134,3 @@ All recipe data is sourced from the free [DummyJSON API](https://dummyjson.com/r
 | `GET /recipes/:id` | Single recipe detail |
 | `GET /recipes/tag/:tag` | Recipes by tag |
 
----
-
-## Contact
-
-**FoodieHub**  
-247 Flavor Street, Suite 12, New York, NY 10001, USA  
-Email: [hello@foodiehub.com](mailto:hello@foodiehub.com)  
-Phone: +1 (212) 555-0198
